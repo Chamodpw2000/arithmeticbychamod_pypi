@@ -1,19 +1,20 @@
 [build-system]
-requires = ["setuptools>=68"]
+requires = ["setuptools>=77"]
 build-backend = "setuptools.build_meta"
 
 [project]
 name = "arithmeticbychamod"
 readme="README.md"
-version = "0.1.0"
+version = "0.2.0"
 description = "A tiny arithmetic library built to learn Python packaging"
 requires-python = ">=3.9"
-license = { text = "MIT" }
+license = "MIT"
+license-files = ["LICENSE"]
 authors = [{ name = "Chamod Wanigasekara" }]
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
 ]
 
 [tool.setuptools.packages.find]
 where = ["src"]
+
