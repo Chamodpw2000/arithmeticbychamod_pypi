@@ -1,11 +1,10 @@
 Metadata-Version: 2.4
 Name: arithmeticbychamod
-Version: 0.2.0
+Version: 0.2.1
 Summary: A tiny arithmetic library built to learn Python packaging
 Author: Chamod Wanigasekara
-License: MIT
+License-Expression: MIT
 Classifier: Programming Language :: Python :: 3
-Classifier: License :: OSI Approved :: MIT License
 Requires-Python: >=3.9
 Description-Content-Type: text/markdown
 License-File: LICENSE
