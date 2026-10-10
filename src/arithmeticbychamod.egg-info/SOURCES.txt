@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/arithmeticbychamod/__init__.py
+src/arithmeticbychamod/operations.py
+src/arithmeticbychamod.egg-info/PKG-INFO
+src/arithmeticbychamod.egg-info/SOURCES.txt
+src/arithmeticbychamod.egg-info/dependency_links.txt
+src/arithmeticbychamod.egg-info/top_level.txt
+tests/test_operations.py
